@@ -77,7 +77,7 @@ Magento 2.4.x Docker Setup:
                                --base-url=http://magento24.loc/ \
                                --backend-frontname=admin \
                                --admin-user=admin \
-                               --admin-password=admin123 \
+                               --admin-password=orbitvu12 \
                                --admin-email=dev@orbitvu.com \
                                --admin-firstname=dev \
                                --admin-lastname=dev \
